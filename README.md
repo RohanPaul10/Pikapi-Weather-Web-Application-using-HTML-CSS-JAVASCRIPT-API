@@ -1,3 +1,4 @@
-# Pikapi-Weather-Web-Application-using-HTML-CSS-JAVASCRIPT-API Rohan Paul
-My Second Project 
+# Skyesque 🔆🌤️🌈
+Weather Web Application using HTML, CSS, JavaScript, and API
+
 
